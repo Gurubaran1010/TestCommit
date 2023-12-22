@@ -1,1 +1,1 @@
-First commit test
+Check the status aftet the global config
